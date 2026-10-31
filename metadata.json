@@ -1,0 +1,6 @@
+{
+  "name": "Campus Eats - Smart Canteen & Pre-Ordering Platform",
+  "description": "Smart campus canteen ordering and pre-order platform with live order tracking, kitchen fulfillment board, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
